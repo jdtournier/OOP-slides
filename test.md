@@ -28,7 +28,7 @@ title: test
 
 # Hello World
 
-```c++
+```
 #include <iostream>
 
 int main ()
