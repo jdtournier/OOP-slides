@@ -8,7 +8,5 @@
 # Site settings
 title: OOP Slides
 baseurl: /OOP-slides
-permalink: pretty
 author: "J-Donald Tournier"
-title_image: "/images/404/brain.png"
 description: Slides for the KCL BMEIS OOP course
