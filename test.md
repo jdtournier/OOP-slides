@@ -3,7 +3,16 @@ layout: presentation
 title: test
 ---
 
-# My Awesome Presentation
+# Object-Oriented Programming
+
+## Topics to be covered:
+
+- the command-line
+- navigating the filesystem
+- invoking the compiler
+- using an editor
+- writing our first `hello_world.cpp`
+
 
 ---
 
