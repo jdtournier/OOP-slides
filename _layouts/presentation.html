@@ -26,7 +26,7 @@
       var slideshow = remark.create(
         ratio: '16:9',
         click: true,
-        slideNumberFormat: ' %current% ',
+        slideNumberFormat: function (current, total) { return 'current; },
         highlightLanguage: 'c++',
         highlightLines: true,
         highlightSpans: true);
