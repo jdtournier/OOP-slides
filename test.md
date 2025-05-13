@@ -51,3 +51,11 @@ int main ()
   `return` 0;
 }
 ```
+
+---
+
+# SVG image display
+
+Here is an image in SVG format:
+
+![SVG drawing](drawing.svg)
